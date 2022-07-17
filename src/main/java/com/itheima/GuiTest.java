@@ -7,7 +7,7 @@ public class GuiTest {
         System.out.println("hello fix");
         System.out.println("master test");
         System.out.println("hot-fix test1");
-        System.out.println("push test");
+        System.out.println("pull test");
 
     }
 }
