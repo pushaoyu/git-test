@@ -6,6 +6,7 @@ public class GuiTest {
         System.out.println("hello git3");
         System.out.println("hello fix");
         System.out.println("master test");
+        System.out.println("hot-fix test1");
 
     }
 }
